@@ -1,4 +1,4 @@
-package »§¼®¹ÜÀí;
+package Â»Â§Â¼Â®Â¹ÃœÃ€Ã­;
 
 public class Demo {
 public static void main(String[] args) throws Exception {
@@ -26,5 +26,7 @@ public static void main(String[] args) throws Exception {
 	
 	PersonManger.findAll();
 	PersonManger.selectById(1118);
+	
+	int testGitee;
 }
 }
